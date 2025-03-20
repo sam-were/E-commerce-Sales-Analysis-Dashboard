@@ -15,7 +15,8 @@ The primary goal of this dashboard is to provide a comprehensive overview of sal
 - Top 5 Subcategories by Sales: Identification of the best-performing subcategories.
 - Sales by State: Visualization of sales performance across different U.S. states.
 - Filters: Interactive filters to select data by year, segment (Consumer, Corporate, Home Office), and region.
-
+  
+## Dashboard Files
 - DASHBOARD PREVIEW <a href ="https://github.com/sam-were/E-commerce-Sales-Analysis-Dashboard/blob/main/image.png">View Dashboard Preview</a>
 - DATA <a href ="https://github.com/sam-were/E-commerce-Sales-Analysis-Dashboard/blob/main/DATA.xlsx">View Data</a>
 - DASHBOARD <a href ="https://github.com/sam-were/E-commerce-Sales-Analysis-Dashboard/blob/main/Ecommerce%20Sales%20Analysis.xlsx">View Dashboard</a>
