@@ -5,13 +5,13 @@ This interactive dashboard offers insights into e-commerce performance, showing 
 The primary goal of this dashboard is to provide a comprehensive overview of sales and profit performance. It is designed to help e-commerce businesses track their performance over time, segment data by categories and regions, and drill down into specific subcategories. This dashboard serves as a decision-support tool for business leaders and analysts.
 
 ## KPIs (Key Performance Indicators):
-Sales: Total sales value of the e-commerce platform, with YoY growth tracking.
-Profit: Total profit earned, alongside its YoY growth rate.
-Quantity Sold: Number of items sold, with its YoY growth.
-Number of Orders: Total number of orders, with YoY growth for comparison.
-Profit Margin: The percentage of profit margin, with YoY growth comparison.
-Category-Wise Profit: Breakdown of profit across different product categories.
-Sales Share by Category: The percentage share of each category in overall sales.
-Top 5 Subcategories by Sales: Identification of the best-performing subcategories.
-Sales by State: Visualization of sales performance across different U.S. states.
-Filters: Interactive filters to select data by year, segment (Consumer, Corporate, Home Office), and region.
+- Sales: Total sales value of the e-commerce platform, with YoY growth tracking.
+- Profit: Total profit earned, alongside its YoY growth rate.
+- Quantity Sold: Number of items sold, with its YoY growth.
+- Number of Orders: Total number of orders, with YoY growth for comparison.
+- Profit Margin: The percentage of profit margin, with YoY growth comparison.
+- Category-Wise Profit: Breakdown of profit across different product categories.
+- Sales Share by Category: The percentage share of each category in overall sales.
+- Top 5 Subcategories by Sales: Identification of the best-performing subcategories.
+- Sales by State: Visualization of sales performance across different U.S. states.
+- Filters: Interactive filters to select data by year, segment (Consumer, Corporate, Home Office), and region.
